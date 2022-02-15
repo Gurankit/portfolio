@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b4dac801.css",
+    "main.js": "/portfolio/static/js/main.8d80ea23.js",
+    "static/media/WhatsApp wave2.jpeg": "/portfolio/static/media/WhatsApp wave2.d573b5f289a3e4704c7d.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.b4dac801.css.map": "/portfolio/static/css/main.b4dac801.css.map",
+    "main.8d80ea23.js.map": "/portfolio/static/js/main.8d80ea23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4dac801.css",
+    "static/js/main.8d80ea23.js"
+  ]
+}
